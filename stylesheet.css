@@ -3,3 +3,10 @@ body {
   color:white;
   font-family: arial;
 }
+
+.btn { 
+  padding: 7px;
+  text-decoration: none;
+  color: #696969;
+}
+
