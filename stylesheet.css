@@ -1,0 +1,16 @@
+body {
+  background: black;
+  color:white;
+  font-family: arial;
+}
+
+.masthead {
+  text-align: center;
+}
+
+.btn { 
+  padding: 7px;
+  text-decoration: none;
+  color: #696969;
+  text-align: right;
+}
