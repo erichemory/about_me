@@ -4,6 +4,10 @@ body {
   font-family: arial;
 }
 
+.masthead {
+  text-align: center;
+}
+
 .btn { 
   padding: 7px;
   text-decoration: none;
